@@ -1,0 +1,6 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/foodzilla/MainActivity.java
+ com.example.foodzilla.MainActivity
+com/example/foodzilla/BuildConfig.java
+ com.example.foodzilla.BuildConfig

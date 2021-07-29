@@ -1,0 +1,4 @@
+#Thu Jul 22 22:39:53 PKT 2021
+base.0=/Users/umer/AndroidStudioProjects/foodzilla/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
