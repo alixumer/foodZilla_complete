@@ -1,17 +1,7 @@
 # foodzilla
 
-A new Flutter project.
+A Food Delivery App using #Flutter.
 
-## Getting Started
+This is a complete project of food delivery app ui using flutter.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# foodzilla" 
+![thubnail](https://user-images.githubusercontent.com/70147892/127483213-8c907481-49ad-4fd5-a85c-6c79fa5ee36d.png)
