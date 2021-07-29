@@ -9,8 +9,11 @@ This is a complete project of food delivery app ui using flutter.
 
 ### **Screens:**
 #Splash Screen
+
 #Phone Registration Screen
+
 #OTP Screen
+
 #Profile Creation Screen
 
 
